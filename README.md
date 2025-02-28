@@ -5,7 +5,8 @@ Software Engineering Day1 Assignment
 #Part 1: Introduction to Software Engineering
 
 Explain what software engineering is and discuss its importance in the technology industry.
-     >Software engineering-is the systematic application of engineering principles and best 
+
+>Software engineering-is the systematic application of engineering principles and best 
         practices to the design, development, maintenance, testing, and evaluation of software.
          It uses toools , techniques and methodologies to create high quality systems that 
           meet the users needs and can help in solving issues in society.
@@ -38,7 +39,8 @@ Explain what software engineering is and discuss its importance in the technolog
 
 
 Identify and describe at least three key milestones in the evolution of software engineering.
-        1. The Emergence of the Software Crisis (1960s-1970s)
+
+   1. The Emergence of the Software Crisis (1960s-1970s)
           Before the software engineering discipline emerged, software development was largely 
           an ad hoc process. Developers often wrote code in isolation, with little 
           consideration for long-term maintenance, scalability, or even standardization. As 
@@ -61,7 +63,8 @@ Identify and describe at least three key milestones in the evolution of software
 
 
 List and briefly explain the phases of the Software Development Life Cycle.
-       1. Requirement Gathering and Analysis- this is the gathering of information and 
+   
+   1. Requirement Gathering and Analysis- this is the gathering of information and 
            requirements to help in building a software and how to solve a perticular problem.
        2. System Design- this is where a blueprint of the system is created addressing the 
            requirements. 
@@ -78,6 +81,7 @@ List and briefly explain the phases of the Software Development Life Cycle.
 
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
+
   >   Waterfall methodology is a linear and sequential approach to software 
       development. It is one of the most traditional methods and involves completing each 
       phase before moving on to the next while Agile methodelogy is an iterative and 
@@ -93,6 +97,7 @@ Compare and contrast the Waterfall and Agile methodologies. Provide examples of 
 
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
+
 > Roles
   1.Software developer-is responsible for writing, testing, and maintaining the code that 
     powers software applications.
@@ -138,7 +143,8 @@ Discuss the importance of Integrated Development Environments (IDEs) and Version
                     -e.g: Git.Subversion,Perfomance and Mercurial.
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
-    1. Managing Complex Codebases- can be ovecome by modular design,refactoring,code reviews 
+
+  1. Managing Complex Codebases- can be ovecome by modular design,refactoring,code reviews 
         and automated testing.
     2. Handling Tight Deadlines and Time Constraints - can be overcome by Adopting agile 
         development practices,prioritizing features based on business value and complexity,
@@ -200,6 +206,7 @@ Explain the different types of testing (unit, integration, system, and acceptanc
 
 
 Define prompt engineering and discuss its importance in interacting with AI models.
+
 > Prompt engineering refers to the process of designing, refining, and optimizing the inputs (or "prompts") that are fed into AI models, to elicit the most accurate, relevant, and desired responses. 
  and its importance is as follows:
 
